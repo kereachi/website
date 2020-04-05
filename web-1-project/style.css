@@ -1,0 +1,31 @@
+body {
+    background-color: #EEF0F2;
+}
+
+h4 {
+    color: #166088;
+}
+
+.cards {
+    margin-top: 3em;
+}
+
+
+.template {
+    padding: 1em 0;
+    margin-top: 3em;
+    height: 20em;
+    background-color: rgb(84, 109, 119);
+}
+
+.form-container {
+    padding: 1em;
+    margin: 2em;
+    height: 11em;
+    border: 0.1em solid #4F6D7A;
+    border-radius: 0.5em;
+}
+
+.form-group {
+    width: 80%;
+}
